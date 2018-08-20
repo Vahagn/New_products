@@ -15,4 +15,4 @@ Advantages:<br>
 When the first time I started to code (in web programming), I made web pages for each single image. Of course, this is a very bad practice, but as I didn’t know enough knowledge, I had no choice. As soon as I realized that it was possible to have a one page, a one file website, the idea of the SPW was born.<br>
 
 <br><a href="https://youtu.be/bBuFUGsE5rY" target="_blank">Go to Youtube</a>
-<br><a href="https://smartcodingsystem.com" target="_blank">Go to a live example.</a>
+<br><a href="http://smartcodingsystem.com" target="_blank">Go to the example.</a>

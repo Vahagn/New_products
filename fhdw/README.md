@@ -18,4 +18,4 @@ But today this issue is solved thanks to FHDW and the most important thing is th
 Technologies used - CSS, JavaScript or jQuery, Web API.<br>
 
 <br><a href="https://youtu.be/_0ZZuQsHAS8" target="_blank">Go to Youtube</a>
-<br><a href="https://smartcodingsystem.com" target="_blank">Go to a live example.</a>
+<br><a href="http://smartcodingsystem.com" target="_blank">Go to the example.</a>
